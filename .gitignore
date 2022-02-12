@@ -10,6 +10,7 @@
 
 # production
 /build
+/src/states/urlState.ts
 
 # misc
 .DS_Store
